@@ -4,7 +4,14 @@ class Coordonnes extends  Component {
     render() {
         return(
             <div>
-                mes coordonnes
+                <div>
+                mes coordonnes :
+                <h4>Nom: Belaich</h4>
+                    <h4>Prenom: Meir</h4>
+                    <h4>Adresse: 21 Boulevard albert Camus</h4>
+                    <h4>Code Postal: 95200</h4>
+                    <h4>Ville: Sarcelles</h4>
+                </div>
                 <div className='about-profile-cv'>
                     <a
                         className='waves-effect waves-light btn-large pulse purple'
